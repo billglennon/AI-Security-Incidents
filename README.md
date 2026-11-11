@@ -1,6 +1,8 @@
 # AI-Security-Incidents
 I finally got around to exploring “AI Security Incidents” with data from the AI Incident database  https://incidentdatabase.ai/research/snapshots/.  
 
+The data is from November 2, 2026.  
+
 This Notebook was from the Bamboo Weekly by Reuven M. Learner.  
 https://www.bambooweekly.com  
 
